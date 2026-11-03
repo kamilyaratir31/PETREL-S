@@ -1,0 +1,9 @@
+Licence: 76224
+Order: 9464409
+AVCS Charts: Completed at 03/11/2026
+Vessel: PETREL S, IMO: IMO9363883
+
+Some modifications were done during approval process:
+
+Order created by distributor user B2BTunaWL
+AVCS Products order 9464409 for TN317505,GR3CFMAS,ES504511 has been completed.
